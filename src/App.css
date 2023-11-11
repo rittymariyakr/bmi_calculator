@@ -1,0 +1,14 @@
+body{
+    /* background-image:url('https://petsci.co.uk/wp-content/uploads/2012/01/weight-watching1.jpg');  */
+    background-image: linear-gradient(rgb(196, 49, 209), rgb(123, 102, 218));
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;  
+}
+
+.green{
+    color:green
+}
+.red{
+    color:red
+}
